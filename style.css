@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-image: url("../assets/image/pexels-kienvirak-4826377");
+    height: 100vh;
+    width: 100vw;
+    
+}
