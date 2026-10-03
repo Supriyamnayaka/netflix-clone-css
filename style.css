@@ -1,4 +1,5 @@
 *{
+<<<<<<< HEAD
     margin:0;
     padding: 0;
     box-sizing: border-box;
@@ -260,4 +261,15 @@ flex: 1; /* Allows input to stretch and fill available space */
 .faq{
     display:
 
+=======
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-image: url("../assets/image/pexels-kienvirak-4826377");
+    height: 100vh;
+    width: 100vw;
+    
+>>>>>>> 73e2eff716161766373969d81ef5a69b4e1ade20
 }
